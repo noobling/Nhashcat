@@ -1,0 +1,13 @@
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.exe
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.deps.json
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.runtimeconfig.json
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.runtimeconfig.dev.json
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.dll
+C:\Repos\HashConverter\bin\Debug\net5.0\HashConverter.pdb
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.csprojAssemblyReference.cache
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.AssemblyInfoInputs.cache
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.AssemblyInfo.cs
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.csproj.CoreCompileInputs.cache
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.dll
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.pdb
+C:\Repos\HashConverter\obj\Debug\net5.0\HashConverter.genruntimeconfig.cache
