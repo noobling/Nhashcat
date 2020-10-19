@@ -17,6 +17,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -73,7 +74,7 @@
       <workItem from="1602833857538" duration="316000" />
       <workItem from="1602834213067" duration="507000" />
       <workItem from="1602834756079" duration="424000" />
-      <workItem from="1603081160572" duration="14403000" />
+      <workItem from="1603081160572" duration="14754000" />
     </task>
     <servers />
   </component>
