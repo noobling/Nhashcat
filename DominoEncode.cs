@@ -37,4 +37,25 @@ public static class DominoHash
 
         return passwd.Remove(passwd.Length - 1, 1);
     }
+
+    public static string Domino85xEncode(byte[] final)
+    { 
+        var byte10 = final[3] + 4;
+
+        if (byte10 > 255)
+        {
+            byte10 = byte10 - 256;
+        }
+
+        final[3] = (byte) byte10;
+
+        var passwd = "";
+
+        for (var i = 0; i < 36; i += 3)
+        {
+            passwd += DominoBase64Encode((final[i] << 16) | (final[i+1] << 8) | final[i+2], 4);
+        }
+        
+        return passwd;
+    }
 }
